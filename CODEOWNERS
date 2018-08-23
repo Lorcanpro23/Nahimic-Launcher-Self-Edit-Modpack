@@ -1,0 +1,15 @@
+# Pull requests containing this file require an admin to approve the change.
+# This is to stop an evil user from editing some modpack they shouldn't be able to access.
+# Stop editing of codeowners and root directory files
+*       @Tomoli75
+# Space for users to register their repo
+official/ @Tomoli75
+
+
+
+
+
+
+
+
+
